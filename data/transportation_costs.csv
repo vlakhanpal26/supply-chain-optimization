@@ -1,0 +1,16 @@
+Facility,Zone,Unit_Cost,CO2_Emissions_per_unit
+Plant_1,Zone_A,11,0.198
+Plant_1,Zone_B,22,0.232
+Plant_1,Zone_C,10,0.103
+Plant_1,Zone_D,15,0.246
+Plant_1,Zone_E,25,0.164
+Plant_2,Zone_A,20,0.135
+Plant_2,Zone_B,18,0.132
+Plant_2,Zone_C,28,0.107
+Plant_2,Zone_D,14,0.493
+Plant_2,Zone_E,15,0.259
+Plant_3,Zone_A,20,0.446
+Plant_3,Zone_B,15,0.49
+Plant_3,Zone_C,15,0.367
+Plant_3,Zone_D,11,0.323
+Plant_3,Zone_E,17,0.291
